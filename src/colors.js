@@ -1,0 +1,9 @@
+export const color1 = "#1D4C78";
+export const color2 = "#518EBD";
+export const color3 = "#D2D2D2";
+export const color4 = "#F28A0C";
+export const color5 = "#62F708";
+export const color6 = "#75D672";
+export const white = "#fff";
+export const balck = "#333";
+export const placeholder = "#999";
